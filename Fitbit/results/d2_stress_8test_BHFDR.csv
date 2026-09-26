@@ -1,0 +1,9 @@
+outcome,term,p,p_fdr,reject_fdr
+absGap_sleeptime,stress_between,0.33975012517277803,0.45300016689703737,False
+absGap_sleeptime,stress_within,0.9698489298446538,0.9698489298446538,False
+absGap_sleepquality,stress_between,0.023006541746749754,0.12389418589954765,False
+absGap_sleepquality,stress_within,0.030973546474886912,0.12389418589954765,False
+absGap_bedtime,stress_between,0.2990539309455329,0.45300016689703737,False
+absGap_bedtime,stress_within,0.46855410773158523,0.5354904088360974,False
+absGap_waketime,stress_between,0.14039428699816842,0.28078857399633683,False
+absGap_waketime,stress_within,0.1167221846957139,0.28078857399633683,False
